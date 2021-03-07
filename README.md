@@ -13,3 +13,4 @@ Screenshots
 ![Demo screenshot][1]
 
 [1]: /screenshots/app_test_2.gif
+
